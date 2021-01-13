@@ -8,3 +8,5 @@ CREATE TABLE guests (
 
 INSERT INTO guests ("name", "kidsMeal")
 VALUES ('Edan', false), ('Dane', false), ('Winnie', true);
+
+SELECT * FROM guests;
